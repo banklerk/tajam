@@ -1180,7 +1180,7 @@ body {
   color: #413d4b;
   font-family: Roboto, sans-serif;
   font-size: 14px;
-  max-width: 1600px;
+  max-width: 1920px;
   margin: 0 auto;
 }
 a {
@@ -1368,7 +1368,7 @@ a {
   right: 0;
   left: 0;
   z-index: 100;
-  max-width: 1600px;
+  max-width: 1920px;
   margin: auto;
 }
 .main-header_change-color {
@@ -2440,14 +2440,8 @@ ASIDE SECTION
   }
   .main-header .container {
     left: 0;
-  }
-  .main-header .container {
     top: 0;
-  }
-  .main-header .container {
     position: relative;
-  }
-  .main-header .container {
     z-index: 1000;
   }
   .sitenav > input {
@@ -2696,8 +2690,6 @@ ASIDE SECTION
 @media screen and (max-width: 480px) {
   .main-header .container {
     max-width: 100%;
-  }
-  .main-header .container {
     padding: 0;
   }
   .block-partners-wrapper {
